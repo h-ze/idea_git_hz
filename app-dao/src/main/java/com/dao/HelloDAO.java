@@ -8,4 +8,8 @@ public class HelloDAO {
     public String sayHello(String name){
         return "name"+name;
     }
+
+    public void m1(){
+
+    }
 }
