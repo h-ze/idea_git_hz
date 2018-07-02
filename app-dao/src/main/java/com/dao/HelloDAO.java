@@ -10,7 +10,7 @@ public class HelloDAO {
     }
 
     public void m1(){
-
+        System.out.println("hello world");
     }
     public void m2(){
 
